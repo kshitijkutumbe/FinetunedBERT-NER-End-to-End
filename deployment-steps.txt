@@ -1,2 +1,5 @@
-1. Download gcloud sdk and then install it
-2. to check if it has been installed, run gcloud init
+1. Create an account on GCP
+2. Download gcloud sdk and then install it
+3. to check if it has been installed, run "gcloud init"
+4. Login to the console by following instructions , select your project and then select configuration
+ 
